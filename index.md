@@ -1,4 +1,4 @@
-All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+Use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
 
 ![Image of fast.ai logo](images/logo.png)
 
